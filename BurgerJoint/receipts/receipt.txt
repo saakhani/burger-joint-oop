@@ -1,0 +1,6 @@
+Beverages: 
+1. Apple Juice SMALL. Rs.90.0
+
+
+Total: 
+Rs.90.0

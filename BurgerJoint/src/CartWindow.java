@@ -192,7 +192,7 @@ public class CartWindow extends javax.swing.JFrame {
         FileWriter fileWriter;
         File receipt;
         try {
-             receipt = new File("receipt.txt");
+             receipt = new File("./BurgerJoint/receipts/receipt.txt");
              fileWriter = new FileWriter(receipt);
              fileWriter.write(CurrentOrder.order.toString());
              fileWriter.close();

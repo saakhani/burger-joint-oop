@@ -1,3 +1,5 @@
+import java.util.*;
+
 public abstract class Fries implements Prices{
     protected double price;
     protected Size size;
